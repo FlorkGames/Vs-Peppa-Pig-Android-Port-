@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Stop beating me!!! I want to win!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "haha sucks to be you kid"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BF!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey, what did I do?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "pls dont kill me pls dont kill me pls dont kill me pls dont kill me pls dont kill me pls dont kill me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Just sing the last song already."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok."
+		}
+	]
+}
