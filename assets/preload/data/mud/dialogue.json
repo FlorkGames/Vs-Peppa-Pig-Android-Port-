@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi! I'm Peppa Pig! *oink oink*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait why am I in the Peppa Pig TV show?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I literally have no idea. I wouldn't be able to tell you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Great. I'm probably stuck here now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can just use my powers to get you out of here. No problem at all."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "I am a demon, you know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "True. Let's leave."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait, no! Let's sing! You're the Boyfriend from FNF! You can sing really well!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ughhh.. fine. Only one song though."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YAY!!! *oink oink*"
+		}
+	]
+}
