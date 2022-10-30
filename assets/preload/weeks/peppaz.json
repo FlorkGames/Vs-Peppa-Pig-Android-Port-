@@ -1,0 +1,40 @@
+{
+	"storyName": "I LOVE JUMPING IN MUDDY PUDDLES!!!!! Classic",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "peppap1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mud-Classic",
+			"peppa",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Rainy Days-Classic",
+			"peppa-sad",
+			[
+				155,
+				155,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Vs. Peppa Pig - Classic Mode"
+}
