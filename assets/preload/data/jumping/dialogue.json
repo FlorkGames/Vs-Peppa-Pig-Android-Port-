@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine. FNF isn't a kids game. But now you have to sing two more songs with me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What? Why?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "One song isn't enough for a second week."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok fine."
+		}
+	]
+}
