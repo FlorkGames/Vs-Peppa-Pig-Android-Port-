@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm Peppa Pig!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*oink* Let's sing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No."
+		}
+	]
+}
