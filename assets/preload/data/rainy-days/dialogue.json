@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK. We're done now. I'm leaving. FNF isn't even a kids game anyway. I shouldn't be rapping with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "w.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "wh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What? B-but kids play FNF!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Doesn't mean it's a kids game lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF isn't that a little bit harsh for a kids show character?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eh.. it's fine."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "If you beat me in another rap battle then I'll believe you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fair enough.. I guess.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That isn't fair what are you on about?"
+		}
+	]
+}
