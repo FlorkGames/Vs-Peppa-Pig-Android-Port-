@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peppa.png"><SubTexture name="peppa happy talk0000" x="0" y="0" width="236" height="458" frameX="-236" frameY="-228" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa happy talk0001" x="472" y="0" width="238" height="455" frameX="-240" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa happy talk0002" x="0" y="458" width="246" height="451" frameX="-241" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa happyidle0000" x="246" y="458" width="246" height="451" frameX="-241" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa sad talk0000" x="236" y="0" width="236" height="458" frameX="-236" frameY="-228" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa sad talk0001" x="710" y="0" width="238" height="455" frameX="-240" frameY="-231" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa sad talk0002" x="492" y="458" width="246" height="451" frameX="-241" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="peppa sadidle0000" x="948" y="0" width="246" height="451" frameX="-241" frameY="-235" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
