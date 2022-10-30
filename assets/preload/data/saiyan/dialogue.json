@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "IT ISN'T FAIR!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Kids play FNF all the time so that means it's a kids game."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peppa",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Now I have to transform."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "OOOOOOOOOF COURSE YOU DO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mmmmmmmmmmmmmmmmmmmmmmmmm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Start the third song transformation... even though it's in a different week."
+		}
+	]
+}
