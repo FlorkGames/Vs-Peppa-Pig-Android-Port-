@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sad.png"><SubTexture name="sad idle0000" x="0" y="924" width="296" height="437" frameX="-211" frameY="-249" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad idle0001" x="296" y="924" width="293" height="430" frameX="-223" frameY="-256" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad idle0002" x="0" y="924" width="296" height="437" frameX="-211" frameY="-249" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad idle0003" x="1265" y="0" width="295" height="441" frameX="-201" frameY="-245" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad idle0004" x="333" y="472" width="295" height="451" frameX="-192" frameY="-235" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad left0000" x="948" y="0" width="317" height="446" frameX="-181" frameY="-243" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad left0001" x="628" y="472" width="309" height="449" frameX="-185" frameY="-240" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad down0000" x="1265" y="441" width="268" height="435" frameX="-235" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad down0001" x="948" y="446" width="257" height="444" frameX="-239" frameY="-242" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad up0000" x="0" y="0" width="304" height="472" frameX="-164" frameY="-214" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad up0001" x="304" y="0" width="300" height="467" frameX="-173" frameY="-219" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad right0000" x="604" y="0" width="344" height="453" frameX="-204" frameY="-241" frameWidth="1280" frameHeight="720" />
+<SubTexture name="sad right0001" x="0" y="472" width="333" height="452" frameX="-202" frameY="-242" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
